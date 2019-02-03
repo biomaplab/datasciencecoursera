@@ -1,6 +1,6 @@
 Getting and Cleaning Data Project
 
-Data Source
+Data Source:
 
 Human Activity Recognition Using Smartphones Data Set at UCI Machine Learning Repository is used for this project. The data set is built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
@@ -27,7 +27,7 @@ activityLabels are assigned using actvities_labels.txt and classLabels and activ
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 
-features are labeled using features.txt. Mean and Standard Deviation identified and assigned to featuresWanted. The required measurements are then extracted.
+features are labeled using features.txt. Mean and Standard Deviation identified and assigned to featuresWanted. The     required measurements are then extracted.
 
 3. Merge the training and the test sets to create one data set.
 
